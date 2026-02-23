@@ -4,7 +4,7 @@ Public Domain Works by V. V. Ramanan (?-?).
 
 ## The Smallpox Goddess.
 
-English - Plain Text  
+[English - Plain Text](smallpox-goddess/full-text-english.md)  
 English - PDF | Fraktur | Schwabacher | Custom01  
-German - Plain Text  
-German - PDF  
+Tamil - Plain Text  
+Tamil - PDF  
